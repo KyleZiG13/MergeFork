@@ -22,7 +22,8 @@ public class MergeFork extends javax.swing.JFrame {
         "Ken Weber",
         "Mike Jeromin",
         "Regan Laurell",
-       "Elcain Chase"
+        "Elcain Chase",
+        "Tychell Nichols",
     };
     
     /**
